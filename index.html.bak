@@ -15,6 +15,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Athiti:wght@500&amp;family=K2D&amp;display=swap"
 
       rel="stylesheet">
+    <meta name="description" content="Resume,Pimpitcha Phromluesee,(Library and Information Science)
+Silpakorn University">
+    <meta name="keywords" content="640510313 พิมพิชชา พรมฤาษี, resume,(Library and Information Science)
+Silpakorn University">
   </head>
   <body class="my-bg">
     <div class="container">
@@ -318,7 +322,35 @@
 
                 class="navbar-brand" href="mailto:file:///D:/%E0%B8%AD.%E0%B8%AA%E0%B8%81%E0%B8%A5/resume/resume/index..html#"
 
-                target="_blank" title="email"> </a> </div>
+                target="_blank" title="email"> </a>
+              <!-- Button trigger modal --> <button type="button" class="btn btn-primary"
+
+                data-bs-toggle="modal" data-bs-target="#exampleModal"> My life
+                story </button>
+              <!-- Modal -->
+              <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+
+                aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h1 class="modal-title fs-5" id="exampleModalLabel">my
+                        instagram profile</h1>
+                      <button type="button" class="btn-close" data-bs-dismiss="modal"
+
+                        aria-label="Close"></button> </div>
+                    <div class="modal-body"><img alt="1" src="images/ig.jpg"
+
+               > </div>
+                    <div class="modal-footer"> <button type="button" class="btn btn-secondary"
+
+                        data-bs-dismiss="modal">Close</button> <button type="button"
+
+                        class="btn btn-primary">Save changes</button> </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </nav>
         </div>
         <div class="container">
@@ -428,6 +460,5 @@ integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cD
 
 crossorigin="anonymous"></script> </div>
     </div>
-    
   </body>
 </html>
